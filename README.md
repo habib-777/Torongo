@@ -70,4 +70,4 @@ There’s a donation form created with GiveWP Donations Plugin. This form enable
     <img width="800" src="https://github.com/habib-777/Torongo/blob/main/Screenshots/Donate.png" alt="Donate page">
 </p>
 
-<sub>"Torongo" is built by [Md. Habibur Rahman](https://github.com/habib-777)[Syed Mohd. Farhan](https://github.com/FarhanSyed23)</sub>
+<sub>"Torongo" is built by [Md. Habibur Rahman](https://github.com/habib-777) and [Syed Mohd. Farhan](https://github.com/FarhanSyed23)</sub>
